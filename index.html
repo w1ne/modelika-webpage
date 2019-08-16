@@ -10,7 +10,7 @@ header:
 excerpt: >
 <p>Celebration of the feminine beauty.</p>
 <p>For women I love, woman I never met, woman who changed me, while learning the art of seduction.</p>
-</p>The tribute.</p>
+<p>The tribute.</p>
 <br />
   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.16.5">Latest release v4.16.5</a></small>
 feature_row:
@@ -38,3 +38,9 @@ feature_row:
 ---
 
 {% include feature_row %}
+
+<div class="grid__wrapper">
+  {% for post in site.posts limit:3 %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
