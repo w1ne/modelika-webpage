@@ -1,7 +1,43 @@
 ---
 layout: splash
 permalink: /
+header:
+  overlay_color: "#e2002e"
+  overlay_image: /assets/images/fatale-front-plain.svg
+  actions:
+    - label: "<i class='fas fa-university'></i> Learn with me"
+      url: "/docs/quick-start-guide/"
 excerpt: >
-Celebration of the feminine beauty, while learning the art of seduction.<br />
+The tribute.<br />
+<small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.16.5">Latest release v4.16.5</a></small>
+feature_row:
+  - image_path: /assets/images/theory-feature.svg
+    alt: "theory"
+    title: "Science of attraction"
+    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
+    url: "/docs/configuration/"
+    btn_class: "btn--primary"
+    btn_label: "Tell me"
+  - image_path: /assets/images/practice-feature.svg
+    alt: "practice"
+    title: "Field reports"
+    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+    url: "/docs/layouts/"
+    btn_class: "btn--primary"
+    btn_label: "Show me"
+  - image_path: /assets/images/sources-feature.svg
+    alt: "sources"
+    title: "Books and materials"
+    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
+    url: "/docs/license/"
+    btn_class: "btn--primary"
+    btn_label: "Involve me"      
 ---
-test
+
+{% include feature_row %}
+
+<div class="grid__wrapper">
+  {% for post in site.posts limit:3 %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
