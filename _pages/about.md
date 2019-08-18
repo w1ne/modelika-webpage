@@ -3,7 +3,6 @@ permalink: /about/
 title: "About"
 excerpt: "Fatale is celebration of feminine beauty. The art of seduction."
 last_modified_at:
-toc: false
 ---
 
 # fatale
@@ -72,8 +71,6 @@ With courage and love, for this day and all the days to come: approach, learn fr
  <input class="hidden" type="hidden" name="_subject" value="Message via http://domain.com">
 <input class="button submit" type="submit" value="Send">
 </form>
-
----
 
 ## References
 
