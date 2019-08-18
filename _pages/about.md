@@ -18,6 +18,7 @@ She was dressed in a colorful stripy short dress, blue, red, green in vertical l
 
 She intimidates me.
 I wait. I pick up plums.
+
 I didn't approach.
 
 I am staying near milk section refrigirators, reading contents of the Mozzarella ball. Mozzarella tastes wonderfully with tomatoes and basil. She is looking over yogurts. Her long shapely legs land in white sandals, vinous fingernails. She is around 25.
@@ -32,6 +33,7 @@ Our eyes met. She has breathtaking bright blue eyes. I want to see them everyday
 She wants to be approached.
 
 I said, thank you, to the cashier, good day, and left.
+
 I didn't approach.
 I went home, fried fish, chopped cucumber into the salad and made this blog.
 
@@ -43,6 +45,7 @@ Fatale is dedicated to woman in my life whom I loved vertiginously, woman whom I
 
 But most importantly,
 Fatale is the call to action. In the arms of death we will regret not about what were done, but about that moment from youth, when she was so close and warm on the promenade of the Oder river. Yet, you didn't go for a kiss.
+
 With courage and love, for this day and all the days to come: approach, learn from each interaction, make desires real.
 
 ## Contact me
@@ -68,5 +71,7 @@ With courage and love, for this day and all the days to come: approach, learn fr
 ## References
 
 Images on this site are inspired by http://www.eoincoveney.com/
+
 The main page cover image is vector based on Conrad Roset Art of the Muse.
+
 Fatale is designed, developed, and maintained by Andrew Sharp.
