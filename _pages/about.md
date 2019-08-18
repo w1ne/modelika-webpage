@@ -1,11 +1,10 @@
 ---
 permalink: /about/
+layout: single
 title: "About"
 excerpt: "Fatale is celebration of feminine beauty. The art of seduction."
 last_modified_at:
 ---
-
-# fatale
 
 ![good morning]({{"/assets/images/about.svg"|relative_url}}){: .center-image }
 
@@ -18,17 +17,13 @@ While picking velvet springy plums, I saw her.
 She was dressed in a colorful stripy short dress, blue, red, green in vertical lines. Burning hair caress keen shoulders.  She stays near vegetables, with pots of peppermint above her head. Her small hands are throwing tomatoes in the plastic bag.
 
 She intimidates me.
-
 I wait. I pick up plums.
-
 I didn't approach.
 
 I am staying near milk section refrigirators, reading contents of the Mozzarella ball. Mozzarella tastes wonderfully with tomatoes and basil. She is looking over yogurts. Her long shapely legs land in white sandals, vinous fingernails. She is around 25.
 
 I want her.
-
 I stay near refrigirators. I am choosing cheese.
-
 I didn't approach.
 
 People are waiting alongside the conveyor belt. I am  on the checkout, looking at her from the top of the line.
@@ -37,9 +32,7 @@ Our eyes met. She has breathtaking bright blue eyes. I want to see them everyday
 She wants to be approached.
 
 I said, thank you, to the cashier, good day, and left.
-
 I didn't approach.
-
 I went home, fried fish, chopped cucumber into the salad and made this blog.
 
 ## What is fatale?
@@ -76,5 +69,4 @@ With courage and love, for this day and all the days to come: approach, learn fr
 
 Images on this site are inspired by http://www.eoincoveney.com/
 The main page cover image is vector based on Conrad Roset Art of the Muse.
-
-fatale is designed, developed, and maintained by Andrew Sharp.
+Fatale is designed, developed, and maintained by Andrew Sharp.
