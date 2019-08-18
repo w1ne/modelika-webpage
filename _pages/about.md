@@ -2,85 +2,82 @@
 permalink: /about/
 title: "About"
 excerpt: "Fatale is celebration of feminine beauty. The art of seduction."
-layouts_gallery:
-  - url: /assets/images/mm-layout-splash.png
-    image_path: /assets/images/mm-layout-splash.png
-    alt: "splash layout example"
-  - url: /assets/images/mm-layout-single-meta.png
-    image_path: /assets/images/mm-layout-single-meta.png
-    alt: "single layout with comments and related posts"
-  - url: /assets/images/mm-layout-archive.png
-    image_path: /assets/images/mm-layout-archive.png
-    alt: "archive layout example"
-last_modified_at: 2019-04-03T15:15:09-04:00
+last_modified_at:
 toc: false
 ---
 
-Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
+# fatale
 
-{% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
+![good morning]({{"/assets/images/about.svg"|relative_url}}){: .center-image }
 
-[Install the Theme]({{ "/docs/quick-start-guide/" | relative_url }}){: .btn .btn--success .btn--large}
+It was day preceding national holiday, Armed Forces Day. Unfortunately, everything is closed on national holidays in Poland.
+I went to the small, but slow supermarket, "Biedrionka", with intention to make food supply before celebration. 
 
-## Notable Features
+In cardboard boxes there are bananas, grapes, peaches. People scurry between cabbages and mucky watermelons.
+While picking velvet springy plums, I saw her. 
 
-- Bundled as a "theme gem" for easier install/upgrading.
-- Compatible with GitHub Pages.
-- Support for Jekyll's built-in Sass/SCSS preprocessor.
-- Nine different skins (color variations).
-- Several responsive layout options (single, archive index, search, splash, and paginated home page).
-- Optimized for search engines with support for [Twitter Cards](https://dev.twitter.com/cards/overview) and [Open Graph](http://ogp.me/) data
-- Optional [header images](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#headers), [custom sidebars](https://mmistakes.github.io/minimal-mistakes/docs/layouts/#sidebars), [table of contents](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#table-of-contents), [galleries](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#gallery), related posts, [breadcrumb links](https://mmistakes.github.io/minimal-mistakes/docs/configuration/#breadcrumb-navigation-beta), [navigation lists](https://mmistakes.github.io/minimal-mistakes/docs/helpers/#navigation-list), and more.
-- Commenting support (powered by [Disqus](https://disqus.com/), [Facebook](https://developers.facebook.com/docs/plugins/comments), [Discourse](https://www.discourse.org/), [utterances](https://utteranc.es/), static-based via [Staticman v1 and v2](https://staticman.net/), and custom).
-- [Google Analytics](https://www.google.com/analytics/) support.
-- UI localized text in English (default), Brazilian Portuguese (Português brasileiro), Chinese, Danish, Dutch, French (Français), German (Deutsch), Greek, Hindi (हिंदी), Hungarian, Indonesian, Italian (Italiano), Japanese, Korean, Malayalam, Nepali (Nepalese), Persian (فارسی), Polish, Punjabi (ਪੰਜਾਬੀ), Romanian, Russian, Slovak, Spanish (Español), Swedish, Thai, Turkish (Türkçe), and Vietnamese.
+She was dressed in a colorful stripy short dress, blue, red, green in vertical lines. Burning hair caress keen shoulders.  She stays near vegetables, with pots of peppermint above her head. Her small hands are throwing tomatoes in the plastic bag.
 
-## Demo Pages
+She intimidates me.
 
-| Name                                        | Description                                           |
-| ------------------------------------------- | ----------------------------------------------------- |
-| [Post with Header Image][header-image-post] | A post with a large header image. |
-| [HTML Tags and Formatting Post][html-tags-post] | A variety of common markup showing how the theme styles them. |
-| [Syntax Highlighting Post][syntax-post] | Post displaying highlighted code. |
-| [Post with a Gallery][gallery-post] | A post showing several images wrapped in `<figure>` elements. |
-| [Sample Collection Page][sample-collection] | Single page from a collection. |
-| [Categories Archive][categories-archive] | Posts grouped by category. |
-| [Tags Archive][tags-archive] | Posts grouped by tag. |
+I wait. I pick up plums.
 
-For even more demo pages check the [posts archive][year-archive].
+I didn't approach.
 
-[header-image-post]: {{ "" | relative_url }}{% post_url 2012-03-15-layout-header-image-text-readability %}
-[gallery-post]: {{ "" | relative_url }}{% post_url 2010-09-09-post-gallery %}
-[html-tags-post]: {{ "" | relative_url }}{% post_url 2013-01-11-markup-html-tags-and-formatting %}
-[syntax-post]: {{ "" | relative_url }}{% post_url 2013-08-16-markup-syntax-highlighting %}
-[sample-collection]: {{ "/recipes/chocolate-chip-cookies/" | relative_url }}
-[categories-archive]: {{ "/categories/" | relative_url }}
-[tags-archive]: {{ "/tags/" | relative_url }}
-[year-archive]: {{ "/year-archive/" | relative_url }}
+I am staying near milk section refrigirators, reading contents of the Mozzarella ball. Mozzarella tastes wonderfully with tomatoes and basil. She is looking over yogurts. Her long shapely legs land in white sandals, vinous fingernails. She is around 25.
+
+I want her.
+
+I stay near refrigirators. I am choosing cheese.
+
+I didn't approach.
+
+People are waiting alongside the conveyor belt. I am  on the checkout, looking at her from the top of the line.
+She bought some pork, yogurt, carrot juice.
+Our eyes met. She has breathtaking bright blue eyes. I want to see them everyday in the morning duvet. Eyes of the anticipated summer rain. We looked piercingly into each other for a few seconds. She looks away. She slowly helds out  hand and touched my throbbing...
+She wants to be approached.
+
+I said, thank you, to the cashier, good day, and left.
+
+I didn't approach.
+
+I went home, fried fish, chopped cucumber into the salad and made this blog.
+
+## What is fatale?
+
+Fatale is celebration of feminine beauty. It collects  the information from sneaky-tricky pick up books I have read, _hundreds of them_, awkward videos I have watched, as well as numerous hilarious mistakes I am making on the journey to become a lover beau idéal. _French makes everything sexy._
+
+Fatale is dedicated to woman in my life whom I loved vertiginously, woman whom I never met _(because I have been a pussy)_, woman who influenced me.
+
+But most importantly,
+Fatale is the call to action. In the arms of death we will regret not about what were done, but about that moment from youth, when she was so close and warm on the promenade of the Oder river. Yet, you didn't go for a kiss.
+With courage and love, for this day and all the days to come: approach, learn from each interaction, make desires real.
+
+## Contact me
+
+<form action="//formspree.io/email@domain.com" method="POST">
+ <fieldset>
+ <label for="name">Your name</label><br>
+ <input type="text" name="name" placeholder="Name" id="name" required>
+ </fieldset>
+ <fieldset>
+ <label for="_replyto">Your email</label><br>
+ <input type="email" name="_replyto" placeholder="example@domain.com" id="_replyto" required>
+ </fieldset>
+ <fieldset>
+ <label for="message">Your message</label><br>
+ <textarea name="message" rows="1" placeholder="Message" id="message" required></textarea>
+ </fieldset>
+ <input class="hidden" type="text" name="_gotcha" style="display:none">
+ <input class="hidden" type="hidden" name="_subject" value="Message via http://domain.com">
+<input class="button submit" type="submit" value="Send">
+</form>
 
 ---
 
-## Credits
+## References
 
-### Icons + Demo Images:
+Images on this site are inspired by http://www.eoincoveney.com/
+The main page cover image is vector based on Conrad Roset Art of the Muse.
 
-- [The Noun Project](https://thenounproject.com) -- Garrett Knoll, Arthur Shlain, and [tracy tam](https://thenounproject.com/tracytam)
-- [Font Awesome](http://fontawesome.io/)
-- [Unsplash](https://unsplash.com/)
-
-### Other:
-
-- [Jekyll](https://jekyllrb.com/)
-- [jQuery](https://jquery.com/)
-- [Susy](http://susy.oddbird.net/)
-- [Breakpoint](http://breakpoint-sass.com/)
-- [Magnific Popup](http://dimsemenov.com/plugins/magnific-popup/)
-- [FitVids.JS](http://fitvidsjs.com/)
-- Greedy Navigation - [lukejacksonn](https://codepen.io/lukejacksonn/pen/PwmwWV)
-- [jQuery Smooth Scroll](https://github.com/kswedberg/jquery-smooth-scroll)
-- [Lunr](http://lunrjs.com)
-
----
-
-Minimal Mistakes is designed, developed, and maintained by Michael Rose. Just another boring, tattooed, designer from Buffalo New York.
-
+fatale is designed, developed, and maintained by Andrew Sharp.
