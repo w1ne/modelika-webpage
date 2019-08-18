@@ -25,6 +25,7 @@ I am staying near milk section refrigirators, reading contents of the Mozzarella
 
 I want her.
 I stay near refrigirators. I am choosing cheese.
+
 I didn't approach.
 
 People are waiting alongside the conveyor belt. I am  on the checkout, looking at her from the top of the line.
@@ -35,16 +36,16 @@ She wants to be approached.
 I said, thank you, to the cashier, good day, and left.
 
 I didn't approach.
-I went home, fried fish, chopped cucumber into the salad and made this blog.
+Instead, I went home, fried fish, chopped cucumber into the salad and made this blog.
 
 ## What is fatale?
 
-Fatale is celebration of feminine beauty. It collects  the information from sneaky-tricky pick up books I have read, _hundreds of them_, awkward videos I have watched, as well as numerous hilarious mistakes I am making on the journey to become a lover beau idéal. _French makes everything sexy._
+_**fatale**_ is celebration of feminine beauty. It collects  the information from sneaky-tricky pick up books I have read, _hundreds of them_, awkward videos I have watched, as well as numerous hilarious mistakes I am making on the journey to become a lover beau idéal. _French makes everything sexy._
 
-Fatale is dedicated to woman in my life whom I loved vertiginously, woman whom I never met _(because I have been a pussy)_, woman who influenced me.
+_**fatale**_ is dedicated to woman in my life whom I loved vertiginously, woman whom I never met _(because I have been a pussy)_, woman who influenced me.
 
 But most importantly,
-Fatale is the call to action. In the arms of death we will regret not about what were done, but about that moment from youth, when she was so close and warm on the promenade of the Oder river. Yet, you didn't go for a kiss.
+_**fatale**_ is the call to action. In the arms of death we will regret not about what were done, but about that moment from youth, when she was so close and warm on the promenade of the Oder river. Yet, you didn't go for a kiss.
 
 With courage and love, for this day and all the days to come: approach, learn from each interaction, make desires real.
 
