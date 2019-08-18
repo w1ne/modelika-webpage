@@ -30,7 +30,7 @@ I didn't approach.
 
 People are waiting alongside the conveyor belt. I am  on the checkout, looking at her from the top of the line.
 She bought some pork, yogurt, carrot juice.
-Our eyes met. She has breathtaking bright blue eyes. I want to see them everyday in the morning duvet. Eyes of the anticipated summer rain. We looked piercingly into each other for a few seconds. She looks away. She slowly helds out  hand and touched my throbbing...
+Our eyes met. She has breathtaking bright blue eyes. I want to see them everyday in the morning duvet. Eyes of the anticipated summer rain. We looked piercingly into each other for a few seconds. She looks away. <s>She slowly helds out hand and touched my throbbing </s>
 She wants to be approached.
 
 I said, thank you, to the cashier, good day, and left.
