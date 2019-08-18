@@ -75,4 +75,4 @@ Images on this site are inspired by http://www.eoincoveney.com/
 
 The main page cover image is vector based on Conrad Roset Art of the Muse.
 
-Fatale is designed, developed, and maintained by Andrew Sharp.
+Fatale is designed, developed, and maintained by Andrew S.
