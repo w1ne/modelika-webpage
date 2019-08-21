@@ -39,5 +39,5 @@ last_modified_at:
   Blockly.svgResize(workspace);
 </script>
 
-<dive id="blocklyArea">
-</dive>
+<div id="blocklyArea">
+</div>
