@@ -24,6 +24,7 @@ last_modified_at:
 
 <script src="/assets/google-blockly/blockly_compressed.js"></script>
 <script src="/assets/google-blockly/blocks_compressed.js"></script>
+<script src="/assets/google-blockly/python_compressed.js"></script>
 <script src="/assets/google-blockly/msg/js/en.js"></script>
 
 <script>
