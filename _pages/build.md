@@ -1,6 +1,6 @@
 ---
 permalink: /build/
-layout: single
+layout: home
 author_profile: false
 classes: wide
 title: "Build"
