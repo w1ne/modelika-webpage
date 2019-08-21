@@ -6,6 +6,7 @@ excerpt: "Build"
 last_modified_at:
 ---
 
+<div id="blocklyArea"></div>
 <script src="/assets/google-blockly/blockly_compressed.js"></script>
 <script src="/assets/google-blockly/blocks_compressed.js"></script>
 <script src="/assets/google-blockly/msg/js/en.js"></script>
@@ -38,6 +39,3 @@ last_modified_at:
   onresize();
   Blockly.svgResize(workspace);
 </script>
-
-<div id="blocklyArea">
-</div>
