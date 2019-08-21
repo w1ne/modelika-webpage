@@ -1,6 +1,7 @@
 ---
 permalink: /build/
 layout: single
+classes: wide
 title: "Build"
 excerpt: "Build"
 last_modified_at:
