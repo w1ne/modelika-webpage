@@ -5,13 +5,13 @@ title: "Build"
 excerpt: "Build"
 last_modified_at:
 ---
+<div id="blocklyArea"></div>
+<div id="blocklyDiv" style="position: absolute"></div>
+
 <xml id="toolbox" style="display: none">
   <block type="controls_if"></block>
   <block type="controls_whileUntil"></block>
 </xml>
-
-<div id="blocklyArea"></div>
-<div id="blocklyDiv" style="position: absolute"></div>
 
 <script src="/assets/google-blockly/blockly_compressed.js"></script>
 <script src="/assets/google-blockly/blocks_compressed.js"></script>
