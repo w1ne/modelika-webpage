@@ -185,7 +185,7 @@ exclude:
   - tmp
   - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
-  - google-blockly
+  - assets/google-blockly
 keep_files:
   - .git
   - .svn
