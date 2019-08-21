@@ -7,11 +7,11 @@ last_modified_at:
 ---
 
 <div id="blocklyArea"></div>
+<div id="blocklyDiv" style="position: absolute"></div>
+
 <script src="/assets/google-blockly/blockly_compressed.js"></script>
 <script src="/assets/google-blockly/blocks_compressed.js"></script>
 <script src="/assets/google-blockly/msg/js/en.js"></script>
-
-<div id="blocklyDiv" style="position: absolute"></div>
 
 <script>
   var blocklyArea = document.getElementById('blocklyArea');
