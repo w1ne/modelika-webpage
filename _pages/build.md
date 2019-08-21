@@ -6,7 +6,7 @@ excerpt: "Build"
 last_modified_at:
 ---
 <div id="blocklyArea"></div>
-<div id="blocklyDiv" style="position: absolute"></div>
+<div id="blocklyDiv" style="height: 800px; width: 100%;"></div>
 
 <xml xmlns="https://developers.google.com/blockly/xml" id="toolbox" style="display: none">
     <block type="controls_if"></block>
@@ -25,28 +25,6 @@ last_modified_at:
 <script src="/assets/google-blockly/msg/js/en.js"></script>
 
 <script>
-  var blocklyArea = document.getElementById('blocklyArea');
-  var blocklyDiv = document.getElementById('blocklyDiv');
-  var workspace = Blockly.inject(blocklyDiv,
+  var workspace = Blockly.inject('blocklyDiv',
       {toolbox: document.getElementById('toolbox')});
-  var onresize = function(e) {
-    // Compute the absolute coordinates and dimensions of blocklyArea.
-    var element = blocklyArea;
-    var x = 0;
-    var y = 0;
-    do {
-      x += element.offsetLeft;
-      y += element.offsetTop;
-      element = element.offsetParent;
-    } while (element);
-    // Position blocklyDiv over blocklyArea.
-    blocklyDiv.style.left = x + 'px';
-    blocklyDiv.style.top = y + 'px';
-    blocklyDiv.style.width = blocklyArea.offsetWidth + 'px';
-    blocklyDiv.style.height = blocklyArea.offsetHeight + 'px';
-    Blockly.svgResize(workspace);
-  };
-  window.addEventListener('resize', onresize, false);
-  onresize();
-  Blockly.svgResize(workspace);
 </script>
