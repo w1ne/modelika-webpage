@@ -7,6 +7,10 @@ title: "Build"
 excerpt: "Build"
 last_modified_at:
 ---
+<p>
+  <button onclick="showCode()">Export App</button>
+</p>
+
 <div id="blocklyArea"></div>
 <div id="blocklyDiv" style="height: 800px; width: 100%;"></div>
 
@@ -30,4 +34,10 @@ last_modified_at:
 <script>
   var workspace = Blockly.inject('blocklyDiv',
       {toolbox: document.getElementById('toolbox')});
+    
+  function showCode() {
+      // Generate Python code and display it.
+      var code = Blockly.Python.workspaceToCode(workspace);
+      alert(code);
+    }
 </script>
