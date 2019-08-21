@@ -1,6 +1,7 @@
 ---
 permalink: /build/
 layout: single
+author_profile: false
 classes: wide
 title: "Build"
 excerpt: "Build"
