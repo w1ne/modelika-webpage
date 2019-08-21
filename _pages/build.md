@@ -8,7 +8,6 @@ last_modified_at:
 
 <script src="/assets/google-blockly/blockly_compressed.js"></script>
 <script src="/assets/google-blockly/blocks_compressed.js"></script>
-
 <script src="/assets/google-blockly/msg/js/en.js"></script>
 
 <div id="blocklyDiv" style="position: absolute"></div>
@@ -39,3 +38,6 @@ last_modified_at:
   onresize();
   Blockly.svgResize(workspace);
 </script>
+
+<dive id="blocklyArea">
+</dive>
