@@ -1,6 +1,6 @@
 ---
 permalink: /build/
-layout: home
+layout: splash
 author_profile: false
 classes: wide
 title: "Build"
