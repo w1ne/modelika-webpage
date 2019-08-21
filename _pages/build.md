@@ -5,6 +5,10 @@ title: "Build"
 excerpt: "Build"
 last_modified_at:
 ---
+<xml id="toolbox" style="display: none">
+  <block type="controls_if"></block>
+  <block type="controls_whileUntil"></block>
+</xml>
 
 <div id="blocklyArea"></div>
 <div id="blocklyDiv" style="position: absolute"></div>
