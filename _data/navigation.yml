@@ -1,6 +1,8 @@
 # main links
 main:
-  - title: "Start"
+  - title: "Build"
+    url: /build/
+  - title: "Docs"
     url: /start/
   - title: "About"
     url: /about/
