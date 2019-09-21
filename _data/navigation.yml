@@ -1,11 +1,11 @@
 # main links
 main:
-  - title: "Build"
-    url: /build/
-  - title: "Docs"
-    url: /start/
-  - title: "About"
-    url: /about/
+  #- title: "Projekty"
+  #  url: /projekty/
+  - title: "Kontakt"
+    url: /kontakt/
+  - title: "O nas"
+    url: /my/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
