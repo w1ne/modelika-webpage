@@ -6,8 +6,6 @@ excerpt: "O nas"
 last_modified_at:
 ---
 
-![good morning]({{"/assets/images/about.svg"|relative_url}}){: .center-image }
-
 <img style="float: left; padding-left: 0px; padding-bottom: 10px; padding-right: 20px;" src="/assets/images/me.jpg" > 
 Cześć, mam na imię Andrii Shylenko i jestem zalożycielem Modelika. 
 
