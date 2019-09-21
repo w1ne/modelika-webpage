@@ -11,6 +11,7 @@ last_modified_at:
 ## Skontaktuj się z nami
 
 e-mail: info@modelika.eu
+
 tel.: 579-600-525
 
 {% include contact-form.html %}
