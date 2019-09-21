@@ -1,0 +1,17 @@
+<form action="//formspree.io/info@modelika.eu" method="POST">
+ <fieldset>
+ <label for="name">Imię</label><br>
+ <input type="text" name="name" placeholder="Imię" id="name" required>
+ </fieldset>
+ <fieldset>
+ <label for="_replyto">email</label><br>
+ <input type="email" name="_replyto" placeholder="info@modelika.pl" id="_replyto" required>
+ </fieldset>
+ <fieldset>
+ <label for="message">Wiadomość</label><br>
+ <textarea name="message" rows="1" placeholder="Wiadomość" id="message" required></textarea>
+ </fieldset>
+ <input class="hidden" type="text" name="_gotcha" style="display:none">
+ <input class="hidden" type="hidden" name="_subject" value="Message via http://modelika.eu">
+<input class="button submit" type="submit" value="Wyslać">
+</form>
