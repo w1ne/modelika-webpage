@@ -1,15 +1,13 @@
 ---
-permalink: /kontakt/
+permalink: /contact/
 layout: single
-title: "O nas"
-excerpt: "O nas"
+title: "Contact"
+excerpt: "Contact"
 last_modified_at:
 ---
 
-## Masz pytannia?
+## Do you have any questions?
 
 e-mail: info@modelika.eu
-
-tel.: 579-600-525
 
 {% include contact-form.html %}
