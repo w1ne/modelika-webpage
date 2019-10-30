@@ -20,7 +20,7 @@ title                    : "Modelika"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Modelika"
-description              : "3d printing and services"
+description              : "3d printing services"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -107,10 +107,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Modelika"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Engineer"
+  location         : "Budapest"
   email            :
   links:
     - label: "Email"
