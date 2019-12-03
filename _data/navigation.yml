@@ -2,10 +2,10 @@
 main:
   #- title: "Projekty"
   #  url: /projekty/
-  - title: "Kontakt"
-    url: /kontakt/
-  - title: "O nas"
-    url: /my/
+  - title: "Contact"
+    url: /contact/
+  - title: "About"
+    url: /we/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
